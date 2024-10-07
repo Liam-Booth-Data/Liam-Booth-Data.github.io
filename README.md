@@ -2,7 +2,7 @@
 About me:
 
 - a data scientist/analyst at a utilities company
-- have a passion for machine learning / artifical intelligence / algorthims
+- have a passion for machine learning / artifical intelligence / algorithms
 - carried out several data related projects
 
 
@@ -14,5 +14,5 @@ Tools I can use:
 - Azure Data Factory, Azure DevOps
 - Apache Airflow/Apache Spark
 - Cloud/Distributed Computing with Databricks/GCP/Azure
-- Dbt
+- DBT
 - Git
