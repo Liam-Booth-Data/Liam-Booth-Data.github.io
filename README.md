@@ -14,3 +14,5 @@ Tools I can use:
 - Azure Data Factory, Azure DevOps
 - Apache Airflow/Apache Spark
 - Cloud/Distributed Computing with Databricks/GCP/Azure
+- Dbt
+- Git
