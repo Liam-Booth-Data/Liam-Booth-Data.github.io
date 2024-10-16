@@ -1,15 +1,11 @@
-## About Me
-<br>
-👋 Hi there!
-<br><br>
+## 👋 Hi there!
 I'm a **Data Analyst/Scientist** at a utilities company with a passion for **Machine Learning**, **Artificial Intelligence**, and **Algorithms**.
-<br><br>
+<br>
 I've carried out several data-related projects and love exploring new technologies.
 
 <br><br><br>
 
 ## Tools I Can Use
-<br>
 Here are some of the tools and technologies I work with:
 
 - **Programming Languages & Frameworks:**
