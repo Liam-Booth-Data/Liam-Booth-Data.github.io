@@ -3,6 +3,12 @@ I'm a **Data Analyst/Scientist** at a utilities company with a passion for **Mac
 <br><br>
 I've carried out several data-related projects and love exploring new technologies.
 
+<p align="center">
+  <img src="images/60d35967a853a1b14851703b_All the data (1).gif" width="30%" alt="GIF 1">
+  <img src="images/machine-learning.gif" width="30%" alt="GIF 2">
+  <img src="images/Data-Inspect.gif" width="30%" alt="GIF 3">
+</p>
+
 <br><br><br>
 
 ## Tools I Can Use
