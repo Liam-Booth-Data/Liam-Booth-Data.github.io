@@ -36,3 +36,7 @@ Here are some of the tools and technologies I work with:
 - **Version Control:**
   - Git
 
+<br><br><br>
+
+## Projects
+
