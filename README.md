@@ -3,11 +3,11 @@ I'm a **Data Analyst/Scientist** at a utilities company with a passion for **Mac
 <br><br>
 I've carried out several data-related projects and love exploring new technologies.
 
-<p align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="images/60d35967a853a1b14851703b_All the data (1).gif" width="300" height="200" alt="GIF 1" style="border: 5px solid red;">
   <img src="images/machine-learning.gif" width="300" height="200" alt="GIF 2" style="border: 5px dashed green; border-radius: 15px;">
   <img src="images/Data-Inspect.gif" width="300" height="200" alt="GIF 3" style="border: 5px dotted blue;">
-</p>
+</div>
 
 
 <br><br><br>
