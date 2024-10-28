@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## <span id="about-me">👋 Hi there!</span>
 I'm a **Data Analyst/Scientist** at a utilities company with a passion for **Machine Learning**, **Artificial Intelligence**, and **Algorithms**.
 <br><br>
 I've carried out several data-related projects and love exploring new technologies.
@@ -12,7 +12,7 @@ I've carried out several data-related projects and love exploring new technologi
 
 <br><br><br>
 
-## Tools I Can Use
+## <span id="tools">Tools I Can Use</span>
 Here are some of the tools and technologies I work with:
 
 - **Programming Languages & Frameworks:**
@@ -38,5 +38,5 @@ Here are some of the tools and technologies I work with:
 
 <br><br><br>
 
-## Projects
+## <span id="projects">Projects</span>
 
