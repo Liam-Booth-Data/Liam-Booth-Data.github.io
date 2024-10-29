@@ -1,8 +1,3 @@
-## 👋 Hi there!
-I'm a **Data Analyst/Scientist** at a utilities company with a passion for **Machine Learning**, **Artificial Intelligence**, and **Algorithms**.
-<br><br>
-I've carried out several data-related projects and love exploring new technologies.
-
 <br><br><br>
 
 ## Tools I Can Use
